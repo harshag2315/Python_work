@@ -1,3 +1,4 @@
+#Write a program to calculate the a student result in which 2 exam contain 50% weightage, 3 activity contain 30% weightage and 1 sport event contain 20% weightage
 exam1=float(input('Enter the marks of exma 1(out of 100):'))
 exam2=float(input('Enter the marks of exam 2(out of 100):'))
 sport1=float(input('Enter the marks of sports exam(out of 50):'))
